@@ -6,7 +6,8 @@ Distribute files with choking and unchoking mechanism between peers.
 Establishing all operations using reliable protocol TCP.
 
 Project Members: Project Group - 16
-Kamal Sai Raj Kuncha Ipshita Aggarwal  
+Kamal Sai Raj Kuncha
+Ipshita Aggarwal  
 Aashish Dhawan 
 
 All requirements given in project description are working successfully.
