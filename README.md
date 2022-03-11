@@ -1,5 +1,5 @@
 #Computer Networks Course (CNT 5106C) Project
-#P2P File Sharing
+#P2P-File-Sharing
 Implement BitTorrent protocol to construct a P2P file-sharing application in Java.
 Distribute files with choking and unchoking mechanism between peers.
 Establishing all operations using reliable protocol TCP.
@@ -10,7 +10,6 @@ Kamal Sai Raj Kuncha
 Ipshita Aggarwal  
 Aashish Dhawan 
 
-The link to our demo video on onedrive@UF is: https://uflorida-my.sharepoint.com/:v:/g/personal/k_kuncha_ufl_edu/EZ4ZwgoX7f9FpDMA_dRAtYsBuh4q7bUIT_gxP1USku7-8w?e=Cq2Oj7
 
 All requirements given in project description are working successfully.
 
